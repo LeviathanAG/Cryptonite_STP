@@ -1,0 +1,27 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Fri Oct 31 16:07:58 2025
+Invocation: foremost polyglot.png 
+Output directory: /mnt/c/ctf_writeups/v1tCTF/misc/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: polyglot.png
+Start: Fri Oct 31 16:07:58 2025
+Length: 6 MB (6300910 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00012028.zip 	     138 KB 	    6158648 	 
+1:	00000050.png 	       1 MB 	      25971 	  (1024 x 1024)
+2:	00000000.pdf 	       5 MB 	         53 	 
+Finish: Fri Oct 31 16:07:58 2025
+
+3 FILES EXTRACTED
+	
+zip:= 1
+png:= 1
+pdf:= 1
+------------------------------------------------------------------
+
+Foremost finished at Fri Oct 31 16:07:59 2025
